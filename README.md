@@ -59,6 +59,9 @@ step into next line
 
 ### Inspecting Variables
 
+* `watchpoint set variable i`: `i`就是一个变量,这里设置watchPoint的名字
+
+
 #### Print Variable Content
 (lldb) p varname
 
